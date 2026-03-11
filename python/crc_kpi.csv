@@ -1,0 +1,13 @@
+Metric,Value
+Total CRC trials,4927
+Terminated (failed),769
+Completed (success),4158
+Overall failure rate,0.1561
+Best classifier,Logistic Regression
+Best test AUC,0.713
+Best CV AUC,0.835
+Best test AP,0.319
+Top SHAP feature,tumor
+TF-IDF features,5000
+LSA components,100
+Online final AUC,0.25

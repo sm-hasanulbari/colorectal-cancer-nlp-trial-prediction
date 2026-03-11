@@ -1,0 +1,4 @@
+Classifier,CV AUC (mean),CV AUC (SD),CV AP (mean),Test AUC,Test AP,Brier Score
+Logistic Regression,0.835,0.016,0.597,0.713,0.319,0.163
+Random Forest,0.845,0.023,0.665,0.711,0.309,0.158
+Gradient Boosting,0.849,0.023,0.655,0.713,0.328,0.122
